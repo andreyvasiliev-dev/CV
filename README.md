@@ -70,7 +70,7 @@ Technologies: Java 17, Spring Boot, PostgreSQL, Kafka, Redis, JUnit, Mockito, Te
 
 - Maintaining and evolving a large-scale microservices architecture consisting of approximately 50 services in a production environment.
 
-•Improved microservice reliability, reducing production incidents by 20% through proactive monitoring and troubleshooting.
+- Improved microservice reliability, reducing production incidents by 20% through proactive monitoring and troubleshooting.
 
 Technologies: Java 8-17, Spring Boot, PostgreSQL, Cassandra, ActiveMQ, JUnit, Mockito, JBehave [URL 🔗](https://www.epolsoft.com/en/home/)
 
