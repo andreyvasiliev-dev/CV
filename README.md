@@ -1,44 +1,89 @@
-Sr Java/GO backend engineer, **9+ years** of experience <u>ANDREY VASILIEV</u> GMT+3 <u>+48 (57) 201-08-34 andrey.vasiliev.dev@gmail.com LinkedIn Github</u> 
+Sr Java/GO backend engineer, 9+ years of experience [URL 🔗](tel:+49%C2%A0(155)%20132-4321)
 
-# <u>ANDREY VASILIEV</u> 
+## [ANDREY VASILIEV](https://www.linkedin.com/in/andrey-vasiliev-bedev/)
 
-### ABOUT 
+[andrey.vasiliev.dev@gmail.com](mailto:andrey.vasiliev.dev@gmail.com)
 
-Senior Backend Engineer with **9+ years** of commercial experience, working in teams ranging from 2 to 20 members, both remotely and on-site. Have **team-leading** and new members onboarding experience. Full cycle development: from gathering product owner requirements to running on production, monitoring and support. 
+GMT+3 [URL 🔗](https://wa.me/48572010834)
 
-Experienced in full software development lifecycle using **Java and Go** , including requirements analysis, task decomposition and estimation, technical solution design, implementation, code review, CI/CD, troubleshooting production incidents and delivering reliable solutions for business-critical systems. 
+[+48 (57) 201-08-34](https://wa.me/48572010834)
 
-Worked on international projects across e-commerce, retail, energy and advertising, including solutions for vidaXL and Shell Energy. 
+[LinkedIn](https://www.linkedin.com/in/andrey-vasiliev-bedev/)
 
-### SKILLS 
+[Github](https://github.com/andreyvasiliev-dev/CV)
 
-Languages: Java 8–25, SQL, Go Backend: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Hibernate, REST API, Fiber, Gin, sqlc, sqlx, GORM 
+## ABOUT
 
-Messaging: Apache Kafka, RabbitMQ, ActiveMQ Databases & Caching: PostgreSQL, MongoDB, Apache Cassandra, Redis Testing: JUnit, Mockito, Testcontainers, JBehave Build & Tools: Maven, Liquibase, Git, IntelliJ IDEA, Postman, Swagger/OpenAPI Architecture & API Design: Microservices, Event-Driven Design, gRPC, REST, WebSockets, GraphQL, Protocol Buffers (Protobuf), CQRS, Event Sourcing, Domain-Driven Design (DDD) DevOps, Infrastructure & Observability: Docker, Kubernetes (K8s), Nomad, AWS, Terraform, Ansible, CI/CD,Prometheus, Grafana, ELK Stack, Git, Linux 
+Senior Backend Engineer with 9+ years of commercial experience, working in teams ranging from 2 to 20 members, both remotely and on-site. Have team-leading and new members onboarding experience. Full cycle development: from gathering product owner requirements to running on production, monitoring and support.
 
-### EXPERIENCE 
+Experienced in full software development lifecycle using Java and Go, including requirements analysis, task decomposition and estimation, technical solution design, implementation, code review, CI/CD, troubleshooting production incidents and delivering reliable solutions for business-critical systems.
 
-VidaXL: 09/2023 - PRESENT 3+ YEARS 
+Worked on international projects across e-commerce, retail, energy and advertising, including solutions for vidaXL and Shell Energy.
 
-•Served as an on-call engineer, reducing the average response time for all reported bugs to **under 4 hours** 
+## SKILLS
 
-•Expanded international market reach by increasing eBay country coverage from **3** to **11** . 
+Backend: Spring Boot, Spring Framework, Spring Data, Spring Cloud, Hibernate, REST API, Fiber, Gin, sqlc, sqlx, GORM
 
-•Improved product publishing success rate to **97%** 
+Messaging: Apache Kafka, RabbitMQ, ActiveMQ
 
-•Implemented price and stock export flow for **3** marketplaces: Houzz, Bol, Miravia •Implemented automated AI-powered generation of product descriptions for publication Technologies: Java 25, Go, Spring Boot, Spring Data Mongo, MongoDB, Kafka, Redis, JUnit, Mockito EPAM: 09/2022 - 09/2023 1 YEAR •Reduced fiscal receipt retrieval time by **50%** , from **1.2** seconds to **600** ms, through PostgreSQL query optimization and improved database access patterns. •Developed and optimized high-load backend services processing over **1,000,000** fiscal receipts daily 
+Databases & Caching: PostgreSQL, MongoDB, Apache Cassandra, Redis
 
-•Improved notification delivery success rate to **98%** through enhanced error handling and integration reliability Technologies: Java 17, Spring Boot, PostgreSQL, Kafka, Redis, JUnit, Mockito, Testcontainers 
+Testing: JUnit, Mockito, Testcontainers, JBehave
 
-Shell Energy: 08/2019 - 08/2022 3 YEARS •Contributed to reducing energy supplier switching time from **5 working days to 24 hours** through backend automation •Maintaining and evolving a large-scale microservices architecture consisting of approximately **50** services in a production environment. 
+Build & Tools: Maven, Liquibase, Git, IntelliJ IDEA, Postman, Swagger/OpenAPI
 
-•Improved microservice reliability, reducing production incidents by 20% through proactive monitoring and troubleshooting. Technologies: Java 8-17, Spring Boot, PostgreSQL, Cassandra, ActiveMQ, JUnit, Mockito, JBehave 
+Architecture & API Design: Microservices, Event-Driven Design, gRPC, REST, WebSockets, GraphQL, Protocol Buffers (Protobuf), CQRS, Event Sourcing, Domain-Driven Design (DDD)
 
-Epol Soft: 01/2017 - 07/2019 2.5YEARS 
+DevOps, Infrastructure & Observability: Docker, Kubernetes (K8s), Nomad, AWS, Terraform, Ansible, CI/CD,Prometheus, Grafana, ELK Stack, Git, Linux
 
-## EDUCATION 
+Languages: Java 8–25, SQL, Go
 
-Brest State Polytechnic College,BREST — BACHELOR, 2008 - 2014 
+## EXPERIENCE
 
-Information and computer science Brest State Polytechnic College, BREST — MASTER, 2014 - 2016 Software Development and Maintenance for Information Systems 
+[VidaXL: 09/2023 - PRESENT 3+ YEARS](https://www.vidaxl.co.uk)
 
+- Served as an on-call engineer, reducing the average response time for all reported bugs to under 4 hours [URL 🔗](https://www.vidaxl.co.uk)
+
+- Expanded international market reach by increasing eBay country coverage from 3 to 11.
+
+- Improved product publishing success rate to 97%
+
+- Implemented price and stock export flow for 3 marketplaces: Houzz, Bol, Miravia
+
+•Implemented automated AI-powered generation of product descriptions for publication
+
+Technologies: Java 25, Go, Spring Boot, Spring Data Mongo, MongoDB, Kafka, Redis, JUnit, Mockito [URL 🔗](https://www.epam.com)
+
+[EPAM: 09/2022 - 09/2023](https://www.epam.com)
+
+- Reduced fiscal receipt retrieval time by 50%, from 1.2 seconds to 600 ms, through PostgreSQL query optimization and improved database access patterns.
+
+- Developed and optimized high-load backend services processing over 1,000,000 fiscal receipts daily
+
+- Improved notification delivery success rate to 98% through enhanced error handling and integration reliability
+
+Technologies: Java 17, Spring Boot, PostgreSQL, Kafka, Redis, JUnit, Mockito, Testcontainers
+
+[Shell Energy: 08/2019 - 08/2022 3 YEARS](https://www.shell.co.uk/business/shell-energy.html)
+
+- Contributed to reducing energy supplier switching time from 5 working days to 24 hours through backend automation
+
+- Maintaining and evolving a large-scale microservices architecture consisting of approximately 50 services in a production environment.
+
+•Improved microservice reliability, reducing production incidents by 20% through proactive monitoring and troubleshooting.
+
+Technologies: Java 8-17, Spring Boot, PostgreSQL, Cassandra, ActiveMQ, JUnit, Mockito, JBehave [URL 🔗](https://www.epolsoft.com/en/home/)
+
+1 YEAR
+
+[Epol Soft : 01/2017 - 07/2019 2.5YEARS](https://www.epolsoft.com/en/home/)
+
+## EDUCATION
+
+Brest State Polytechnic Col lege,BREST— BACHELOR, 2008 - 2014
+
+Information and computer science
+
+Brest State Polytechnic Col lege, BREST — MASTER, 2014 - 2016
+
+Software Development and Maintenance for Information Systems
