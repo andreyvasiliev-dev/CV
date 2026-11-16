@@ -54,7 +54,7 @@ Languages: Java 8–25, SQL, Go
 
 Technologies: Java 25, Go, Spring Boot, Spring Data Mongo, MongoDB, Kafka, Redis, JUnit, Mockito [URL 🔗](https://www.epam.com)
 
-[EPAM: 09/2022 - 09/2023](https://www.epam.com)
+[EPAM: 09/2022 - 09/2023 1 YEAR](https://www.epam.com)
 
 - Reduced fiscal receipt retrieval time by 50%, from 1.2 seconds to 600 ms, through PostgreSQL query optimization and improved database access patterns.
 
@@ -73,8 +73,6 @@ Technologies: Java 17, Spring Boot, PostgreSQL, Kafka, Redis, JUnit, Mockito, Te
 •Improved microservice reliability, reducing production incidents by 20% through proactive monitoring and troubleshooting.
 
 Technologies: Java 8-17, Spring Boot, PostgreSQL, Cassandra, ActiveMQ, JUnit, Mockito, JBehave [URL 🔗](https://www.epolsoft.com/en/home/)
-
-1 YEAR
 
 [Epol Soft : 01/2017 - 07/2019 2.5YEARS](https://www.epolsoft.com/en/home/)
 
